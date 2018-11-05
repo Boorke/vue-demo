@@ -1,2 +1,1 @@
-# vue-demo
-First-Vue-App
+Vue练习的小Demo
