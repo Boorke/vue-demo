@@ -1,5 +1,5 @@
 import Vue from 'vue'
-import ToDo from './Todo'
+import ToDo from './ToDo'
 
 Vue.config.productionTip = false
 
