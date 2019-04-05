@@ -58,7 +58,6 @@ export default {
       onDeleteItem(todo){
         this.list = this.list.filter(item => item !== todo);
       }
-
   },
 }
 </script>
